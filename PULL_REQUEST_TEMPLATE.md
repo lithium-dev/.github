@@ -4,9 +4,15 @@ Please include a summary of the change and which issue is resolved. Please also 
 
 Closes # (issue)
 
-# Screenshots/Screenrecorsings
+# Screenshots/Screenrecordings
 
 Include a screenshot or screenrecording of UI/behavior before and after the changes in this PR if relevant.
+Before
+<video src="" controls="controls" style="max-width: 50%;">
+</video>
+After
+<video src="" controls="controls" style="max-width: 50%;">
+</video>
 
 # Parts of the app potentially affected by changes
 - [ ] Job page
