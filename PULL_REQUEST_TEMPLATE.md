@@ -23,5 +23,6 @@ After
 | I have commented my code in hard-to-understand areas | | | |
 | I have updated model factories and seeders to reflect changes to database | | | |
 | I have tested the changes | | | |
+| I have tested across user levels where applicable | | | |
 | I have tested all parts of the app potentially effected by these changes | | | |
 | I have checked for and resolved any TS errors (`npm run check` or `pnpm check` from the front end directory where applicable) | | | |
